@@ -13,21 +13,29 @@ Bowling Performance	overs_bowled, runs_conceded, wickets_taken, maidens, economy
 
 📊 Analytical Features
 Included SQL Queries
-1.Team Performance Analysis
+Team Performance Analysis
+
 List all matches for a specific team
+
 Calculate win/loss records
 
-2.Player Statistics
+Player Statistics
+
 Average runs by Player of the Match
+
 Bowling performance metrics
 
-3.Advanced Analytics
+Advanced Analytics
+
 High performance matches view
+
 Multiple award winners identification
 
-4.Optimization
-
+Optimization
 Pre-configured indexes for faster querying:
+
 Player names
+
 Match dates
+
 Team combinations
